@@ -1,8 +1,0 @@
-[2026-06-29 16:04:48] daemon stopped
-[2026-06-29 16:05:16] daemon started delay_ms=10
-[2026-06-29 16:05:16] device connected: \\?\hid#vid_0c45&pid_800a&mi_02#9&17eab573&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
-[2026-06-29 16:05:27] device write failed: 31; reconnecting
-[2026-06-29 16:05:28] device not found; retrying
-[2026-06-29 16:05:29] device not found; retrying
-[2026-06-29 16:05:30] device connected: \\?\hid#vid_0c45&pid_800a&mi_02#9&17eab573&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
-[2026-06-29 16:05:42] daemon stopped
